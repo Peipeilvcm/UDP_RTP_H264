@@ -25,3 +25,5 @@ server_ip 设为服务端ip，用来发送请求
 ##发送端，循环播放
 循环发送,默认循环1次，之后询问是否继续循环发送
 输入循环次数(0为中止发送)，即可按次数循环，每当循环次数达到都会询问是否继续循环
+
+[image](http://github.com/peipielvcm/UDP_RTP_H264/raw/master/左Server右Client.png)
